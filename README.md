@@ -31,7 +31,9 @@ Um site leve e intuitivo com as principais informações do campus, acessível t
 
 ## Tecnologias
 
-...
+React + TypeScript + Vite
+
+Express + Node.js + Prisma ORM
 
 ---
 
@@ -49,15 +51,9 @@ Em desenvolvimento (MVP)
 
 ---
 
-## Demonstração
-
-...
-
----
-
 ## Link do Projeto
 
-...
+[...](https://portal-do-ingressante-ifnmg.vercel.app/)
 
 ---
 
